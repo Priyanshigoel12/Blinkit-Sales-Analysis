@@ -35,7 +35,12 @@ Blinkit-Sales-Analysis/
 - **Recommendations:** Focus on fast-moving categories and bundle offers for growth.  
 
 ---
+## 📊 Dashboard Preview  
 
+Here is a preview of the Power BI dashboard:  
+![blinkit dashboard](https://github.com/user-attachments/assets/652fc608-1ae5-47e5-8f96-d45dda518e5c)
+
+---
 ## 🚀 How to Use
 1. Download the repository.  
 2. Open `blinkit.pbix` in **Power BI Desktop**.  
