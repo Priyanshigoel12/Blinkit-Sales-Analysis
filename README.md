@@ -1,8 +1,8 @@
-# 📊 Blinkit Sales Analysis – Power BI Project
+# 📊 Blinkit Sales Analysis – Power BI / Microsoft Fabric Project
 
 ## 🔎 Project Overview
 This project analyzes **Blinkit Grocery Sales Data** to uncover insights into product performance, customer preferences, and revenue trends.  
-The dashboard was built in **Power BI** using raw sales data, enabling interactive exploration of sales KPIs and business patterns.
+The dashboard was built in **Power BI / Microsoft Fabric** using raw sales data, enabling interactive exploration of KPIs and business patterns.
 
 ---
 
@@ -10,48 +10,76 @@ The dashboard was built in **Power BI** using raw sales data, enabling interacti
 - Analyze total sales and revenue distribution across categories.
 - Identify top-performing products and categories.
 - Study customer purchasing trends over time.
-- Provide business recommendations for improving revenue.
+- Provide actionable recommendations to improve revenue.
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Power BI** → Data visualization and dashboard design  
-- **Excel** → Data preprocessing  
-- **DAX** → Calculated columns & measures for KPIs  
+- **Microsoft Fabric / Power BI Service** → Board publishing & sharing  
+- **Power BI Desktop** → Data modeling and report design  
+- **Excel / CSV** → Data preprocessing  
+- **DAX** → Calculated columns and measures for KPIs  
+
+---
+
+## 🌐 Live Fabric Board
+> Replace the link below with your actual Microsoft Fabric / Power BI Service board link.
+
+- **Interactive Board (Fabric):** `https://app.powerbi.com/...`
+- **Access Note:** If your board is private, users will need permission to view it.
 
 ---
 
 ## 📂 Project Structure
+```text
 Blinkit-Sales-Analysis/
-│── data/                # Raw dataset
-│── dashboard/           # Power BI dashboard file
-│── images/              # Dashboard screenshots
+│── images/              # Dashboard screenshots and assets
+│── sql data/            # Source data and presentation files
 │── README.md            # Project documentation
+```
+
+---
 
 ## 📈 Key Insights
 - **Top Category:** Fresh Fruits & Vegetables drive the highest sales.  
-- **Customer Trends:** Majority of sales come from repeat customers.  
-- **Revenue Growth:** Steady increase in sales over months, with seasonal spikes.  
-- **Recommendations:** Focus on fast-moving categories and bundle offers for growth.  
+- **Customer Trends:** A major share of sales comes from repeat customers.  
+- **Revenue Pattern:** Sales generally rise over time with seasonal spikes.  
+- **Recommendation:** Focus on fast-moving categories and bundle offers.
 
 ---
-## 📊 Dashboard Preview  
 
-Here is a preview of the Power BI dashboard:  
-![blinkit dashboard](https://github.com/user-attachments/assets/652fc608-1ae5-47e5-8f96-d45dda518e5c)
+## 📊 Dashboard Preview
+Here is a static preview (screenshot):
+
+![blinkit dashboard](images/blinkit%20dashboard.jpeg)
+
+For full interactivity, open the **Live Fabric Board** link above.
 
 ---
+
+## 🧩 Other Projects
+You asked to add new projects as well — you can now maintain them here in a clean section:
+
+- **Project 1:** _Add project title_ — _Add short description_ — _Add link_
+- **Project 2:** _Add project title_ — _Add short description_ — _Add link_
+- **Project 3:** _Add project title_ — _Add short description_ — _Add link_
+
+Tip: Keep each line in the format **Title → Tech Stack → Outcome → Link** for a strong portfolio.
+
+---
+
 ## 🚀 How to Use
-1. Download the repository.  
-2. Open `blinkit.pbix` in **Power BI Desktop**.  
-3. Explore the interactive dashboard.  
+1. Clone or download this repository.  
+2. Open your `.pbix` report in **Power BI Desktop** (if included).  
+3. Publish to **Microsoft Fabric / Power BI Service**.  
+4. Update the **Live Fabric Board** link in this README.
 
 ---
 
 ## 🤝 Connect With Me
 👩‍💻 Priyanshi Goel  
-[GitHub] - https://github.com/Priyanshigoel12 
-[LinkedIn] - www.linkedin.com/in/priyanshigoel06
+- GitHub: https://github.com/Priyanshigoel12  
+- LinkedIn: https://www.linkedin.com/in/priyanshigoel06
 
 ---
 
