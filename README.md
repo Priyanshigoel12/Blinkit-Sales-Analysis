@@ -1,8 +1,8 @@
-# 📊 Blinkit Sales Analysis – Power BI / Microsoft Fabric Project
+# 📊 Blinkit Sales Analysis – Power BI + Microsoft Fabric
 
 ## 🔎 Project Overview
 This project analyzes **Blinkit Grocery Sales Data** to uncover insights into product performance, customer preferences, and revenue trends.  
-The dashboard was built in **Power BI / Microsoft Fabric** using raw sales data, enabling interactive exploration of KPIs and business patterns.
+The report is built in **Power BI** and published to **Microsoft Fabric (Power BI Service)** for interactive exploration.
 
 ---
 
@@ -15,18 +15,30 @@ The dashboard was built in **Power BI / Microsoft Fabric** using raw sales data,
 ---
 
 ## 🛠 Tools & Technologies
-- **Microsoft Fabric / Power BI Service** → Board publishing & sharing  
 - **Power BI Desktop** → Data modeling and report design  
+- **Microsoft Fabric / Power BI Service** → Cloud publishing and sharing  
 - **Excel / CSV** → Data preprocessing  
-- **DAX** → Calculated columns and measures for KPIs  
+- **DAX** → KPI measures and calculated columns  
 
 ---
 
-## 🌐 Live Fabric Board
-> Replace the link below with your actual Microsoft Fabric / Power BI Service board link.
+## 🌐 Live Microsoft Fabric Report
+- **Report Link:** _Add your report URL here_  
+  Example format: `https://app.powerbi.com/groups/<workspace-id>/reports/<report-id>/...`
+- **Workspace:** _Add your Fabric workspace name_  
+- **Access:** If private, grant Viewer access before sharing.
 
-- **Interactive Board (Fabric):** `https://app.powerbi.com/...`
-- **Access Note:** If your board is private, users will need permission to view it.
+---
+
+## ⬇️ How to Pull the Project from Microsoft Fabric
+If you want this repository to include the latest version from your Fabric account:
+
+1. Open the report in **Microsoft Fabric / Power BI Service**.
+2. Select **File → Download this file (.pbix)** (if enabled).
+3. Save the downloaded `.pbix` file into this repo (recommended path: `dashboard/`).
+4. Commit the `.pbix` file and update the **Live Microsoft Fabric Report** link above.
+
+> Note: I can’t directly pull from your Microsoft Fabric account here because account login and tenant permissions are required.
 
 ---
 
@@ -35,44 +47,34 @@ The dashboard was built in **Power BI / Microsoft Fabric** using raw sales data,
 Blinkit-Sales-Analysis/
 │── images/              # Dashboard screenshots and assets
 │── sql data/            # Source data and presentation files
+│── dashboard/           # Place latest downloaded .pbix from Fabric here
 │── README.md            # Project documentation
 ```
 
 ---
 
-## 📈 Key Insights
-- **Top Category:** Fresh Fruits & Vegetables drive the highest sales.  
-- **Customer Trends:** A major share of sales comes from repeat customers.  
-- **Revenue Pattern:** Sales generally rise over time with seasonal spikes.  
-- **Recommendation:** Focus on fast-moving categories and bundle offers.
-
----
-
-## 📊 Dashboard Preview
-Here is a static preview (screenshot):
-
+## 📊 Dashboard Preview (Static)
 ![blinkit dashboard](images/blinkit%20dashboard.jpeg)
 
-For full interactivity, open the **Live Fabric Board** link above.
+Use the **Live Microsoft Fabric Report** link for full interactivity.
 
 ---
 
 ## 🧩 Other Projects
-You asked to add new projects as well — you can now maintain them here in a clean section:
+Add your additional projects here:
 
-- **Project 1:** _Add project title_ — _Add short description_ — _Add link_
-- **Project 2:** _Add project title_ — _Add short description_ — _Add link_
-- **Project 3:** _Add project title_ — _Add short description_ — _Add link_
-
-Tip: Keep each line in the format **Title → Tech Stack → Outcome → Link** for a strong portfolio.
+- **Project 1:** _Title_ | _Tech Stack_ | _Outcome_ | _Link_
+- **Project 2:** _Title_ | _Tech Stack_ | _Outcome_ | _Link_
+- **Project 3:** _Title_ | _Tech Stack_ | _Outcome_ | _Link_
 
 ---
 
 ## 🚀 How to Use
-1. Clone or download this repository.  
-2. Open your `.pbix` report in **Power BI Desktop** (if included).  
-3. Publish to **Microsoft Fabric / Power BI Service**.  
-4. Update the **Live Fabric Board** link in this README.
+1. Clone this repository.  
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Refresh data and validate visuals.  
+4. Publish to **Microsoft Fabric / Power BI Service**.  
+5. Update this README with the latest report link.
 
 ---
 
@@ -83,4 +85,4 @@ Tip: Keep each line in the format **Title → Tech Stack → Outcome → Link** 
 
 ---
 
-⭐ If you found this project helpful, don’t forget to star this repo!
+⭐ If this project helped you, consider starring the repo.
